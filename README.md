@@ -1,2 +1,2 @@
 # opengl-experiments
-A repository for my experiments with OpenGL.
+A repository for some of my experiments with OpenGL.
